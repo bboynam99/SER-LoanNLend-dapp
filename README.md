@@ -14,7 +14,11 @@ This platform only supported BOW token and ETH
 
 For those who need some BOW token to test this platform, visit https://bow-token-faucet.vercel.app/ , this is BOW token faucet running on mumbai testnet.
 
+# Faucet
+https://github.com/bboynam99/BOW-token-faucet
+
 The loan contract address: https://mumbai.polygonscan.com/address/0x305C40132aCd1e9Ae0fE945BEa8192736F2B7B8f
+
 #Contract
 https://github.com/bboynam99/SER-LoanNLend-smart-contracts
 
